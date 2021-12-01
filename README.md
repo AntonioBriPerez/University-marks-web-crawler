@@ -1,5 +1,5 @@
 # University-marks-web-crawler
-Web Crawler to refresh the website of my qualifications every x time and in the moment the teacher grades me a screenshot is taken and sent to a telegram bot
+Web Crawler to refresh the website of my grades every x time and in the moment the teacher grades me a screenshot is taken and sent to a telegram bot
 
 ## Setting Up the project 🚀
 Firstly you will need Google Chrome and its driver. You cand find more information here: https://chromedriver.chromium.org/downloads
