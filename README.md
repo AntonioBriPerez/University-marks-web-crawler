@@ -14,6 +14,5 @@ $python get_note_from_website.py
 
 This script reads the number of the fields Aptos / No aptos so when you get graded it will increment the numbers. For example, if you have no grades the website will look like 0 Aptos / 0 No aptos. If you have 2 grades: 4/10 and 7/10 you will have: 1 Apto / 1 No apto. 
 This is an example
-![alt_text] (https://github.com/AntonioBriPerez/University-marks-web-crawler/blob/main/notas_TC.png)
-
+![alt text](https://github.com/AntonioBriPerez/University-marks-web-crawler/blob/main/notas_TC.png)
 So when one of these numbers is greater than zero, the script will take an screenshot and send it to you via telegram. 
